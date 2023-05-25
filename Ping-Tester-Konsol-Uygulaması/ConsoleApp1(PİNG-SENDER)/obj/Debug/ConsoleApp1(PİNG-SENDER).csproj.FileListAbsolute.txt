@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\bin\Debug\ConsoleApp1(PİNG-SENDER).exe.config
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\bin\Debug\ConsoleApp1(PİNG-SENDER).exe
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\bin\Debug\ConsoleApp1(PİNG-SENDER).pdb
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\obj\Debug\ConsoleApp1(PİNG-SENDER).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\obj\Debug\ConsoleApp1(PİNG-SENDER).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\obj\Debug\ConsoleApp1(PİNG-SENDER).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\obj\Debug\ConsoleApp1(PİNG-SENDER).exe
+C:\Users\User\Desktop\C#\ConsoleApp1(PİNG-SENDER)\ConsoleApp1(PİNG-SENDER)\obj\Debug\ConsoleApp1(PİNG-SENDER).pdb
